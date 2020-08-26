@@ -16,6 +16,8 @@ QRGenerator is a java application. It can gernerate QR code automatically. Some 
 - [CodeBlock](http://www.codeblocks.org/)
 - [zxing](https://github.com/zxing/zxing)
 
+![build](https://ibb.co/1RgnPVt)
+
 ## How to use it ?
 Follow this video: https://www.facebook.com/hoaf13.6/videos/vb.100006284239209/2780008445551936/?type=2&video_source=user_video_tab
 
