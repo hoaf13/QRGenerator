@@ -7,14 +7,14 @@ QRGenerator is a java application. It can gernerate QR code automatically. Some 
   - Text (URL or sentences, short paragraphs)
   - Image
 
-## Main Java Pakages (Libraries) 
+## Main Java Packages (Libraries) 
 * [zxing] - BarcodeFormat, WriterException, MatrixToImageWriter, BitMatrix, QRCodeWriter
 * [javaswing] - ImageIcon, JLabel
 
 
 ## Prerequisite
-- [CodeBlock](http://www.codeblocks.org/)
-- [zxing](https://github.com/zxing/zxing)
+- [CodeBlock](http://www.codeblocks.org/): IDE for JAVA
+- [zxing](https://github.com/zxing/zxing): JAVA package
 
 ## How to use it ?
 Follow this video: https://www.facebook.com/hoaf13.6/videos/vb.100006284239209/2780008445551936/?type=2&video_source=user_video_tab
